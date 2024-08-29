@@ -26,7 +26,7 @@ header {
     border: none;
     color: white;
     padding: 15px 35px;
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 700;
 }
 
@@ -108,12 +108,11 @@ nav a {
 }
 
 
-
 .Contact-btn {
     background-color: #FFF8F3;
     color: #FD6E0A;
     text-align: center;
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 700;
     border: 1px solid #FD6E0A;
 }
@@ -137,4 +136,18 @@ main{
     background-color: #FFF8F3;
     margin: 130px 0;
     
+}
+
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.info-title{
+    color:#757575;
+text-align: center;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
 }
