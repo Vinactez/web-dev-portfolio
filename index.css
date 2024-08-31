@@ -199,6 +199,7 @@ main section {
 /* Styling The Resume Section */
 .resume-container {
     display: flex;
+    gap: 50px;
 }
 
 .resume-column-title {
